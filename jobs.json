@@ -1,0 +1,273 @@
+[
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Sophia Tan",
+        "email": "sophia.tan.dev@example.com",
+        "phone": "+65 8123 4567",
+        "github": "https://github.com/sophiatan",
+        "linkedin": "https://www.linkedin.com/in/sophiatan",
+        "website": "https://sophiatan.dev",
+        "blogs": "https://blog.sophiatan.dev",
+        "summary": "Full-Stack Engineer with expertise in Next.js and cloud-native applications. Passionate about building performant, scalable, and user-centric solutions that bridge the gap between frontend and backend systems.",
+        "jobTitle": "Full Stack Next.js Developer",
+        "location": "Singapore"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Information Systems",
+          "institution": "National University of Singapore",
+          "startDate": "August 2017",
+          "endDate": "May 2021",
+          "location": "Singapore"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-1",
+          "company": "CloudForge",
+          "jobTitle": "Full Stack Developer",
+          "location": "Singapore",
+          "startDate": "June 2021",
+          "endDate": "Present",
+          "description": "• Built internal dashboards and SaaS platforms using Next.js and TypeScript.\n• Designed and deployed serverless APIs on AWS Lambda with DynamoDB.\n• Implemented CI/CD pipelines for automated deployments on Vercel.\n• Enhanced performance by implementing caching strategies with Redis."
+        },
+        {
+          "id": "Experience-2",
+          "company": "WebNest Studios",
+          "jobTitle": "Frontend Developer Intern",
+          "location": "Singapore",
+          "startDate": "January 2020",
+          "endDate": "June 2020",
+          "description": "• Developed UI components in React with reusable design patterns.\n• Assisted in migrating legacy codebase into modern Next.js stack.\n• Improved accessibility (WCAG 2.1 compliance) across company projects."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "FoodieHub",
+          "description": "A restaurant discovery and food ordering web app with SSR for SEO optimization and integrated payment systems.",
+          "link": "https://foodiehub.example.com",
+          "technologies": "Next.js, Node.js, PostgreSQL, Tailwind CSS, Stripe API"
+        },
+        {
+          "id": "Project-2",
+          "name": "EduLearn",
+          "description": "An e-learning platform with video streaming, quizzes, and real-time chat between instructors and students.",
+          "link": "https://edulearn.example.com",
+          "technologies": "Next.js, Firebase, WebRTC, Chakra UI"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "Certificate-1",
+          "title": "AWS Certified Developer – Associate",
+          "issuer": "Amazon Web Services",
+          "date": "August 2022"
+        }
+      ],
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "AWS",
+        "Serverless",
+        "Docker",
+        "GraphQL",
+        "Redis",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Arjun Mehta",
+        "email": "arjun.mehta.dev@example.com",
+        "phone": "+1 646-555-1298",
+        "github": "https://github.com/arjunmehta",
+        "linkedin": "https://www.linkedin.com/in/arjunmehta",
+        "website": "https://arjunmehta.dev",
+        "blogs": "https://blog.arjunmehta.dev",
+        "summary": "Full-Stack Developer specializing in Next.js,React,and Node.js with a strong background in building scalable applications and seamless user experiences. Skilled in modern web technologies,performance optimization,and API design.",
+        "jobTitle": "Full Stack Next.js Developer",
+        "location": "New York,USA"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Science in Computer Engineering",
+          "institution": "New York Institute of Technology",
+          "startDate": "August 2018",
+          "endDate": "May 2022",
+          "location": "New York,USA"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-1",
+          "company": "NextWave Labs",
+          "jobTitle": "Full Stack Developer",
+          "location": "Remote",
+          "startDate": "July 2022",
+          "endDate": "Present",
+          "description": "• Developed and deployed full-stack applications using Next.js,React,and Node.js.• Built scalable APIs with Express and integrated MongoDB for data persistence.• Optimized server-side rendering (SSR) performance for SEO and load times.• Implemented authentication and role-based authorization with NextAuth.js.• Collaborated with designers to deliver responsive and accessible UIs."
+        },
+        {
+          "id": "Experience-2",
+          "company": "BrightTech Solutions",
+          "jobTitle": "Frontend Developer Intern",
+          "location": "San Francisco,USA",
+          "startDate": "June 2021",
+          "endDate": "August 2021",
+          "description": "• Assisted in building responsive React components for a SaaS dashboard.• Integrated REST APIs and improved page load performance by 20%.• Worked closely with QA team to resolve UI/UX bugs and ensure cross-browser compatibility."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "E-Shop Pro",
+          "description": "A full-stack e-commerce platform with Next.js,featuring product search,user authentication,Stripe payments,and admin dashboards.",
+          "link": "https://eshoppro.example.com",
+          "technologies": "Next.js,Node.js,MongoDB,Tailwind CSS,Stripe API"
+        },
+        {
+          "id": "Project-2",
+          "name": "TeamSync",
+          "description": "A real-time collaboration tool with chat,task management,and notifications,designed for distributed teams.",
+          "link": "https://teamsync.example.com",
+          "technologies": "Next.js,Firebase,WebSockets,Tailwind CSS"
+        },
+        {
+          "id": "Project-3",
+          "name": "Devfolio",
+          "description": "A customizable developer portfolio template supporting SSR,dark mode,and CMS integration.",
+          "link": "https://devfolio.example.com",
+          "technologies": "Next.js,GraphQL,Contentful,Vercel"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "Certificate-1",
+          "title": "Next.js & React – The Complete Guide",
+          "issuer": "Udemy",
+          "date": "March 2023"
+        },
+        {
+          "id": "Certificate-2",
+          "title": "MongoDB for Developers",
+          "issuer": "MongoDB University",
+          "date": "November 2022"
+        }
+      ],
+      "skills": [
+        "Next.js",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind CSS",
+        "GraphQL",
+        "REST APIs",
+        "Git",
+        "Docker"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Mateo Rodriguez",
+        "email": "mateo.rodriguez@example.com",
+        "phone": "+34 612 987 654",
+        "github": "https://github.com/mateorodriguez",
+        "linkedin": "https://www.linkedin.com/in/mateorodriguez",
+        "website": "https://mateorodriguez.dev",
+        "blogs": "https://blog.mateorodriguez.dev",
+        "summary": "Software Engineer focused on full-stack development with Next.js, React, and Node.js. Skilled at designing REST/GraphQL APIs, implementing SSR/SSG, and delivering high-performance, SEO-optimized applications.",
+        "jobTitle": "Full Stack Next.js Developer",
+        "location": "Madrid, Spain"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Software Engineering",
+          "institution": "Universidad Politécnica de Madrid",
+          "startDate": "September 2016",
+          "endDate": "June 2020",
+          "location": "Madrid, Spain"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-1",
+          "company": "InnovApp",
+          "jobTitle": "Full Stack Developer",
+          "location": "Madrid, Spain",
+          "startDate": "October 2020",
+          "endDate": "Present",
+          "description": "• Designed and built web applications with Next.js and React.\n• Developed APIs with Express and integrated PostgreSQL for scalable data handling.\n• Improved SEO rankings through SSR and SSG techniques in Next.js.\n• Built reusable UI component library with Tailwind CSS.\n• Mentored junior developers on modern frontend and backend practices."
+        },
+        {
+          "id": "Experience-2",
+          "company": "TechNova",
+          "jobTitle": "Junior Developer Intern",
+          "location": "Remote",
+          "startDate": "January 2019",
+          "endDate": "June 2019",
+          "description": "• Assisted in building admin dashboards with React.\n• Worked on API integrations and frontend optimizations.\n• Contributed to code reviews and testing workflows."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "TravelMate",
+          "description": "A travel planning and booking platform with SSR-enabled search, integrated payment gateway, and personalized recommendations.",
+          "link": "https://travelmate.example.com",
+          "technologies": "Next.js, Node.js, PostgreSQL, Tailwind CSS, Stripe"
+        },
+        {
+          "id": "Project-2",
+          "name": "HealthTrack",
+          "description": "A fitness tracking web app with real-time activity logging, personalized dashboards, and progress analytics.",
+          "link": "https://healthtrack.example.com",
+          "technologies": "Next.js, Firebase, Chart.js, Material UI"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "Certificate-1",
+          "title": "Full-Stack Web Development with React & Node.js",
+          "issuer": "Coursera",
+          "date": "April 2021"
+        }
+      ],
+      "skills": [
+        "Next.js",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "GraphQL",
+        "Tailwind CSS",
+        "Material UI",
+        "Docker",
+        "Firebase",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    "version": 0
+  }
+]
