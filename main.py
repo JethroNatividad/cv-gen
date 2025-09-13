@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 import json
+import time
 
 options = Options()
 
@@ -36,6 +37,8 @@ with open("resumes.json", "r") as f:
                 (By.CSS_SELECTOR, f'a[download="{resume_name}"]')
             )
         )
+        time.sleep(0.5)
 
         driver.find_element(By.CSS_SELECTOR, f'a[download="{resume_name}"]').click()
+        time.sleep(0.5)
 driver.quit()

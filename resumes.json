@@ -269,5 +269,650 @@
       ]
     },
     "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Arjun Patel",
+        "email": "arjun.patel@example.com",
+        "phone": "+91 9876102345",
+        "github": "https://github.com/arjunpatel",
+        "linkedin": "https://www.linkedin.com/in/arjunpatel",
+        "website": "https://arjunpatel.dev",
+        "blogs": "https://blog.arjunpatel.dev",
+        "summary": "Full-Stack Developer passionate about building scalable applications and improving performance. Experienced with React and Node.js.",
+        "jobTitle": "Full Stack Web Developer",
+        "location": "India"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Technology in Information Technology",
+          "institution": "Delhi Institute of Technology",
+          "startDate": "August 2019",
+          "endDate": "June 2023",
+          "location": "New Delhi"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "WebCore Labs",
+          "jobTitle": "Frontend Developer",
+          "location": "Pune",
+          "startDate": "August 2023",
+          "endDate": "Present",
+          "description": "Developed UI components in Next.js and Tailwind.\nEnhanced SEO and accessibility features.\nWorked with backend engineers to integrate GraphQL APIs."
+        },
+        {
+          "id": "Experience-1",
+          "company": "BrightTech",
+          "jobTitle": "Software Intern",
+          "location": "Remote",
+          "startDate": "January 2022",
+          "endDate": "June 2022",
+          "description": "Assisted in creating single-page apps with React.\nDebugged UI bugs and improved loading times.\nGained hands-on experience with Git and CI/CD pipelines."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "Expense Manager",
+          "description": "A personal finance tracker with charts and monthly reports.",
+          "link": "https://expensemanager.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "TravelBuddy",
+          "description": "A trip planning app with itinerary sharing features.",
+          "link": "https://travelbuddy.example.com"
+        },
+        {
+          "id": "Project-3",
+          "name": "Foodify",
+          "description": "A recipe and meal planner app using Spoonacular API.",
+          "link": "https://foodify.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "GraphQL",
+        "MongoDB",
+        "Tailwind CSS",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Sophia Kim",
+        "email": "sophia.kim@example.com",
+        "phone": "+1 415 9876543",
+        "github": "https://github.com/sophiakim",
+        "linkedin": "https://www.linkedin.com/in/sophiakim",
+        "website": "https://sophiakim.dev",
+        "blogs": "https://blog.sophiakim.dev",
+        "summary": "Frontend Engineer with a strong eye for design and user experience. Skilled in React, Next.js, and Tailwind CSS.",
+        "jobTitle": "Frontend Developer",
+        "location": "United States"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "Stanford University",
+          "startDate": "September 2018",
+          "endDate": "June 2022",
+          "location": "California"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "PixelForge",
+          "jobTitle": "Frontend Developer",
+          "location": "San Francisco",
+          "startDate": "July 2022",
+          "endDate": "Present",
+          "description": "Built responsive UI layouts in Next.js.\nCollaborated with designers for pixel-perfect interfaces.\nImproved app performance using code splitting."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "Artify",
+          "description": "An online portfolio builder for artists.",
+          "link": "https://artify.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "E-Shop",
+          "description": "A modern e-commerce web app with secure payment integration.",
+          "link": "https://eshop.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Figma",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Liam Johnson",
+        "email": "liam.johnson@example.com",
+        "phone": "+44 7700 900123",
+        "github": "https://github.com/liamjohnson",
+        "linkedin": "https://www.linkedin.com/in/liamjohnson",
+        "website": "https://liamjohnson.dev",
+        "blogs": "https://blog.liamjohnson.dev",
+        "summary": "Backend-focused Full Stack Developer specializing in building scalable APIs and server-side logic.",
+        "jobTitle": "Backend Developer",
+        "location": "United Kingdom"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Science in Software Engineering",
+          "institution": "University of Manchester",
+          "startDate": "September 2017",
+          "endDate": "July 2021",
+          "location": "Manchester"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "CloudWave",
+          "jobTitle": "Backend Developer",
+          "location": "London",
+          "startDate": "August 2021",
+          "endDate": "Present",
+          "description": "Built scalable REST and GraphQL APIs.\nIntegrated microservices with Docker and Kubernetes.\nWorked with PostgreSQL and Redis for data management."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "APIHub",
+          "description": "A central platform for managing and testing APIs.",
+          "link": "https://apihub.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "StockVision",
+          "description": "A stock analysis platform with real-time data.",
+          "link": "https://stockvision.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Maria Gonzalez",
+        "email": "maria.gonzalez@example.com",
+        "phone": "+34 612 345678",
+        "github": "https://github.com/mariagonzalez",
+        "linkedin": "https://www.linkedin.com/in/mariagonzalez",
+        "website": "https://mariagonzalez.dev",
+        "blogs": "https://blog.mariagonzalez.dev",
+        "summary": "Web Developer with a focus on accessibility and creating inclusive digital experiences.",
+        "jobTitle": "Web Developer",
+        "location": "Spain"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor in Multimedia and Web Development",
+          "institution": "University of Barcelona",
+          "startDate": "September 2016",
+          "endDate": "June 2020",
+          "location": "Barcelona"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "DigitalWorks",
+          "jobTitle": "Frontend Engineer",
+          "location": "Madrid",
+          "startDate": "July 2020",
+          "endDate": "Present",
+          "description": "Developed accessible web applications following WCAG guidelines.\nImplemented responsive layouts with CSS Grid and Flexbox.\nCollaborated with UX team for usability improvements."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "AccessNow",
+          "description": "A tool to evaluate website accessibility compliance.",
+          "link": "https://accessnow.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "EventHub",
+          "description": "An event management system with RSVP features.",
+          "link": "https://eventhub.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Accessibility",
+        "WCAG",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Kenji Tanaka",
+        "email": "kenji.tanaka@example.com",
+        "phone": "+81 80 1234 5678",
+        "github": "https://github.com/kenjitanaka",
+        "linkedin": "https://www.linkedin.com/in/kenjitanaka",
+        "website": "https://kenjitanaka.dev",
+        "blogs": "https://blog.kenjitanaka.dev",
+        "summary": "Full Stack Developer with expertise in Next.js and cloud deployments. Enthusiastic about performance optimization.",
+        "jobTitle": "Full Stack Developer",
+        "location": "Japan"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Engineering in Computer Science",
+          "institution": "University of Tokyo",
+          "startDate": "April 2016",
+          "endDate": "March 2020",
+          "location": "Tokyo"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "SkyNet Systems",
+          "jobTitle": "Full Stack Developer",
+          "location": "Tokyo",
+          "startDate": "May 2020",
+          "endDate": "Present",
+          "description": "Built full stack web apps with Next.js, Node.js, and AWS.\nOptimized serverless deployments for cost and performance.\nMaintained CI/CD pipelines."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "ShopSmart",
+          "description": "An e-commerce platform with personalized recommendations.",
+          "link": "https://shopsmart.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "EduTrack",
+          "description": "An online learning tracker with gamified features.",
+          "link": "https://edutrack.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "MongoDB",
+        "TypeScript",
+        "Tailwind CSS",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Olivia Brown",
+        "email": "olivia.brown@example.com",
+        "phone": "+1 646 555 1234",
+        "github": "https://github.com/oliviabrown",
+        "linkedin": "https://www.linkedin.com/in/oliviabrown",
+        "website": "https://oliviabrown.dev",
+        "blogs": "https://blog.oliviabrown.dev",
+        "summary": "Frontend-focused developer passionate about design systems and accessibility.",
+        "jobTitle": "Frontend Developer",
+        "location": "United States"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Arts in Digital Design",
+          "institution": "New York University",
+          "startDate": "September 2015",
+          "endDate": "May 2019",
+          "location": "New York"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "BrightApps",
+          "jobTitle": "UI Developer",
+          "location": "New York",
+          "startDate": "July 2019",
+          "endDate": "Present",
+          "description": "Developed design systems using React and Storybook.\nWorked closely with UX teams for consistent user experience.\nImplemented accessibility best practices."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "DesignKit",
+          "description": "A reusable component library for developers.",
+          "link": "https://designkit.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "HealthTrack",
+          "description": "A wellness tracking dashboard with charts.",
+          "link": "https://healthtrack.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "React",
+        "Next.js",
+        "Storybook",
+        "Tailwind CSS",
+        "Accessibility",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Ahmed Hassan",
+        "email": "ahmed.hassan@example.com",
+        "phone": "+20 100 234 5678",
+        "github": "https://github.com/ahmedhassan",
+        "linkedin": "https://www.linkedin.com/in/ahmedhassan",
+        "website": "https://ahmedhassan.dev",
+        "blogs": "https://blog.ahmedhassan.dev",
+        "summary": "Full Stack Developer focused on building robust backend APIs with Node.js and Express.",
+        "jobTitle": "Full Stack Web Developer",
+        "location": "Egypt"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Computer Science",
+          "institution": "Cairo University",
+          "startDate": "September 2014",
+          "endDate": "June 2018",
+          "location": "Cairo"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "CodeForge",
+          "jobTitle": "Backend Developer",
+          "location": "Cairo",
+          "startDate": "August 2018",
+          "endDate": "Present",
+          "description": "Built RESTful APIs and integrated authentication.\nOptimized database queries for performance.\nWorked with Dockerized microservices."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "BookStack",
+          "description": "A collaborative book review platform.",
+          "link": "https://bookstack.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "Taskify",
+          "description": "A lightweight Kanban-style task manager.",
+          "link": "https://taskify.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "React",
+        "Next.js",
+        "Docker",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Elena Rossi",
+        "email": "elena.rossi@example.com",
+        "phone": "+39 345 6789012",
+        "github": "https://github.com/elenarossi",
+        "linkedin": "https://www.linkedin.com/in/elenarossi",
+        "website": "https://elenarossi.dev",
+        "blogs": "https://blog.elenarossi.dev",
+        "summary": "Frontend Developer with strong UI/UX sensibilities and focus on responsive design.",
+        "jobTitle": "Frontend Engineer",
+        "location": "Italy"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Computer Science",
+          "institution": "University of Milan",
+          "startDate": "September 2017",
+          "endDate": "July 2021",
+          "location": "Milan"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "WebVision",
+          "jobTitle": "Frontend Engineer",
+          "location": "Rome",
+          "startDate": "September 2021",
+          "endDate": "Present",
+          "description": "Designed and implemented responsive user interfaces.\nImproved loading performance through lazy loading.\nCollaborated with designers for better usability."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "MovieBox",
+          "description": "A movie discovery platform using TMDB API.",
+          "link": "https://moviebox.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "FitTrack",
+          "description": "A fitness dashboard for tracking progress.",
+          "link": "https://fittrack.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "UX Design",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Victor Müller",
+        "email": "victor.muller@example.com",
+        "phone": "+49 170 1234567",
+        "github": "https://github.com/victormuller",
+        "linkedin": "https://www.linkedin.com/in/victormuller",
+        "website": "https://victormuller.dev",
+        "blogs": "https://blog.victormuller.dev",
+        "summary": "Full Stack Developer experienced in building scalable web platforms with modern JavaScript frameworks.",
+        "jobTitle": "Full Stack Developer",
+        "location": "Germany"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Master in Software Engineering",
+          "institution": "Technical University of Munich",
+          "startDate": "October 2016",
+          "endDate": "July 2020",
+          "location": "Munich"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "CloudSphere",
+          "jobTitle": "Full Stack Engineer",
+          "location": "Berlin",
+          "startDate": "August 2020",
+          "endDate": "Present",
+          "description": "Developed and maintained SaaS web applications.\nIntegrated REST and GraphQL APIs.\nWorked with Docker and CI/CD pipelines."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "NoteSpace",
+          "description": "A collaborative note-taking application.",
+          "link": "https://notespace.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "CryptoDash",
+          "description": "A cryptocurrency portfolio tracker.",
+          "link": "https://cryptodash.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker",
+        "GraphQL",
+        "Git"
+      ]
+    },
+    "version": 0
+  },
+  {
+    "state": {
+      "personalInfo": {
+        "name": "Chloe Dubois",
+        "email": "chloe.dubois@example.com",
+        "phone": "+33 612 987654",
+        "github": "https://github.com/chloedubois",
+        "linkedin": "https://www.linkedin.com/in/chloedubois",
+        "website": "https://chloedubois.dev",
+        "blogs": "https://blog.chloedubois.dev",
+        "summary": "Frontend Developer with a flair for animations and interactive design.",
+        "jobTitle": "Frontend Developer",
+        "location": "France"
+      },
+      "education": [
+        {
+          "id": "Education-1",
+          "degree": "Bachelor of Multimedia and Web Design",
+          "institution": "University of Paris",
+          "startDate": "September 2016",
+          "endDate": "June 2020",
+          "location": "Paris"
+        }
+      ],
+      "experience": [
+        {
+          "id": "Experience-2",
+          "company": "Interactive Labs",
+          "jobTitle": "Frontend Developer",
+          "location": "Paris",
+          "startDate": "July 2020",
+          "endDate": "Present",
+          "description": "Implemented animations with Framer Motion.\nBuilt interactive dashboards with React and D3.js.\nOptimized frontend performance."
+        }
+      ],
+      "projects": [
+        {
+          "id": "Project-1",
+          "name": "Vizify",
+          "description": "A data visualization tool for non-technical users.",
+          "link": "https://vizify.example.com"
+        },
+        {
+          "id": "Project-2",
+          "name": "MusicWave",
+          "description": "A music streaming UI with waveform visualizations.",
+          "link": "https://musicwave.example.com"
+        }
+      ],
+      "certificates": [],
+      "skills": [
+        "React",
+        "Next.js",
+        "Framer Motion",
+        "D3.js",
+        "Tailwind CSS",
+        "Git"
+      ]
+    },
+    "version": 0
   }
 ]
