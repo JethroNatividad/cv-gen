@@ -17,18 +17,18 @@ driver.get("https://resumave.vercel.app/edit?tab=personalInfo")
 
 driver.implicitly_wait(2)
 
-with open("jobs.json", "r") as f:
-    jobs = json.load(f)
-    for job in jobs:
-        job_str = json.dumps(job)
+with open("resumes.json", "r") as f:
+    resumes = json.load(f)
+    for resume in resumes:
+        resume_str = json.dumps(resume)
 
         driver.execute_script(
-            f"localStorage.setItem('resume-storage', JSON.stringify({job_str}))"
+            f"localStorage.setItem('resume-storage', JSON.stringify({resume_str}))"
         )
 
         driver.refresh()
         resume_name = (
-            job["state"]["personalInfo"]["name"].replace(" ", "_") + "_Resume.pdf"
+            resume["state"]["personalInfo"]["name"].replace(" ", "_") + "_Resume.pdf"
         )
 
         WebDriverWait(driver, 30).until(
